@@ -5,7 +5,7 @@ May 5, 2019
 udacity-bikeshare-data-project
 
 ### Description
-Using python I analyze bikeshare rider data from three major US cities. 
+Using python I help the user analyze bikeshare rider data from three major US cities. 
 
 ### Files used
 new_york_city.csv
